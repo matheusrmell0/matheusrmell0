@@ -11,5 +11,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matheusrmell0&theme=dark)](https://git.io/streak-stats)
 ## 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,figma)](https://skillicons.dev)
 
